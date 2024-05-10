@@ -1,0 +1,11 @@
+/Users/julioetk/Projects/eticket-GIT/Eticket/Security/bin/Debug/Security.dll
+/Users/julioetk/Projects/eticket-GIT/Eticket/Security/bin/Debug/Security.pdb
+/Users/julioetk/Projects/eticket-GIT/Eticket/Security/obj/Debug/Security.csproj.CoreCompileInputs.cache
+/Users/julioetk/Projects/eticket-GIT/Eticket/Security/obj/Debug/Security.dll
+/Users/julioetk/Projects/eticket-GIT/Eticket/Security/obj/Debug/Security.pdb
+/Users/julioetk/Projects/xamarin/Security/bin/Debug/Security.dll
+/Users/julioetk/Projects/xamarin/Security/bin/Debug/Security.pdb
+/Users/julioetk/Projects/xamarin/Security/obj/Debug/Security.csproj.AssemblyReference.cache
+/Users/julioetk/Projects/xamarin/Security/obj/Debug/Security.csproj.CoreCompileInputs.cache
+/Users/julioetk/Projects/xamarin/Security/obj/Debug/Security.dll
+/Users/julioetk/Projects/xamarin/Security/obj/Debug/Security.pdb

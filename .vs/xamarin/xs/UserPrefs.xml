@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{66904E96-0182-40A1-82F3-1AB6EAA79467}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.pixel_2_xl_-_api_33" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PassbookTicketGenerator/Helpers/PassbookExtensions.cs">
+    <Files>
+      <File FileName="xamarin/xamarin/Views/AboutPage.xaml" />
+      <File FileName="xamarin/xamarin.iOS/Info.plist" />
+      <File FileName="xamarin/xamarin/ViewModels/AboutViewModel.cs" Line="33" Column="20" />
+      <File FileName="../../../../usr/local/share/dotnet/sdk/7.0.312/Microsoft.Common.CurrentVersion.targets" />
+      <File FileName="xamarin/xamarin/Models/TicketData.cs" />
+      <File FileName="PassbookTicketGenerator/PassbookGenerator.cs" Line="321" Column="21" />
+      <File FileName="PassbookTicketGenerator/Helpers/PassbookExtensions.cs" Line="67" Column="68" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="xamarin" expanded="True">
+            <Node name="ElectronicTicketGenerator" expanded="True" />
+            <Node name="PassbookTicketGenerator" expanded="True">
+              <Node name="Helpers" expanded="True">
+                <Node name="PassbookExtensions.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="Security" expanded="True" />
+            <Node name="xamarin.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.xamarin.Android PreferredExecutionTarget="Android.pixel_2_xl_-_api_33" />
+  <MonoDevelop.Ide.ItemProperties.xamarin.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.F4F3F898-FEAA-43B8-906B-518D035F9005" />
+</Properties>

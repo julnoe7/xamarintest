@@ -1,0 +1,12 @@
+/Users/julioetk/Projects/eticket-GIT/Eticket/ElectronicTicketGenerator/bin/Debug/ElectronicTicketGenerator.dll
+/Users/julioetk/Projects/eticket-GIT/Eticket/ElectronicTicketGenerator/bin/Debug/ElectronicTicketGenerator.pdb
+/Users/julioetk/Projects/eticket-GIT/Eticket/ElectronicTicketGenerator/obj/Debug/ElectronicTicketGenerator.csproj.AssemblyReference.cache
+/Users/julioetk/Projects/eticket-GIT/Eticket/ElectronicTicketGenerator/obj/Debug/ElectronicTicketGenerator.csproj.CoreCompileInputs.cache
+/Users/julioetk/Projects/eticket-GIT/Eticket/ElectronicTicketGenerator/obj/Debug/ElectronicTicketGenerator.dll
+/Users/julioetk/Projects/eticket-GIT/Eticket/ElectronicTicketGenerator/obj/Debug/ElectronicTicketGenerator.pdb
+/Users/julioetk/Projects/xamarin/ElectronicTicketGenerator/bin/Debug/ElectronicTicketGenerator.dll
+/Users/julioetk/Projects/xamarin/ElectronicTicketGenerator/bin/Debug/ElectronicTicketGenerator.pdb
+/Users/julioetk/Projects/xamarin/ElectronicTicketGenerator/obj/Debug/ElectronicTicketGenerator.csproj.AssemblyReference.cache
+/Users/julioetk/Projects/xamarin/ElectronicTicketGenerator/obj/Debug/ElectronicTicketGenerator.csproj.CoreCompileInputs.cache
+/Users/julioetk/Projects/xamarin/ElectronicTicketGenerator/obj/Debug/ElectronicTicketGenerator.dll
+/Users/julioetk/Projects/xamarin/ElectronicTicketGenerator/obj/Debug/ElectronicTicketGenerator.pdb

@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <ProduceReferenceAssembly>true</ProduceReferenceAssembly>
+    <ProduceReferenceAssemblyInOutDir>true</ProduceReferenceAssemblyInOutDir>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Xamarin.Forms" Version="5.0.0.2196" />  
+    <PackageReference Include="Xamarin.Essentials" Version="1.7.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Interfaces\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Interfaces\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Security">
+      <HintPath>..\..\Security\obj\Debug\Security.dll</HintPath>
+    </Reference>
+    <Reference Include="PassbookTicketGenerator">
+      <HintPath>..\..\PassbookTicketGenerator\obj\Debug\PassbookTicketGenerator.dll</HintPath>
+    </Reference>
+    <Reference Include="ElectronicTicketGenerator">
+      <HintPath>..\..\ElectronicTicketGenerator\obj\Debug\ElectronicTicketGenerator.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>
